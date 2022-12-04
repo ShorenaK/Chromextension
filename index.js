@@ -1,5 +1,6 @@
 const inputBtn = document.getElementById('input-btn')
 const inputEl = document.getElementById('input-el')
+const ulEl = document.getElementById('ulEl')
 let myLeads = ["www.awesomelead.com", "www.epiclead.com", "www.greatlead.com"]
 
 // let myLeads = []
