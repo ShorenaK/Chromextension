@@ -10,18 +10,26 @@ border: 1px solid #5f9341;
 width: 100%;
 padding: 10px;
 box-sizing: border-box; 
+margin-bottom: 5px;
 }
 
 button{
     background: #5f9341;
     color: aliceblue;
-    padding: 10px 20px 20px;
-    width: 150px;
-    height: 30px;
-    margin-top: 5px;
+    padding: 10px 20px;
+    /* width: 150px;
+    height: 30px; */
+    /* margin-top: 5px; */
+    border: 1px solid #5f9341;
     font-weight: bold; 
     border: none;
 }
+
+#delete-btn{
+
+
+}
+
 
 ul{
 margin-top: 20px;
